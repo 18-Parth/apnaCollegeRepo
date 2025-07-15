@@ -1,4 +1,6 @@
 # apnaCollegeRepo
 git and github tutuorail 
 <br>
-Author - Parth Chavan
+Author - Parth (learning to code)
+
+
